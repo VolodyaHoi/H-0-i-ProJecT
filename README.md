@@ -6,6 +6,11 @@ For work need:
 1.Moonloader
 2.Default moonloader libs,and old ImGui
 3.imgui_themes.lua in directory "moonloader/resource/imgui_themes.lua"
-H[0]i ProJecT v0.1 - //link
+H[0]i ProJecT v0.1(H[0]i CHEAT) - added open source:
+For work need:
+1.Moonloader
+2.Default moonloader libs,and old ImGui
+3.imgui_themes.lua in directory "moonloader/resource/imgui_themes.lua"
+4.H[0]i CHEAT.ini
 H[0]i ProJecT v0.2 - not published
 H[0]i ProJecT v0.3 | beta - coming soon
